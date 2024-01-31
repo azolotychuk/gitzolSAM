@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 fixin 3.txt
-=======
 Myfixin 3.txt»
->>>>>>> branch_2
+
